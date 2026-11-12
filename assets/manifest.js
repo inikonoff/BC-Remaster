@@ -1,0 +1,12 @@
+'use strict';
+// Generated mirror of manifest.json. No fetch() is needed under file://.
+BC.assetManifest = {
+  ground_dirt_01: { file: '', width: 128, height: 128, blend: 'normal', frames: 1 },
+  wall_brick: { file: '', width: 128, height: 128, blend: 'normal', frames: 1 },
+  wall_steel: { file: '', width: 128, height: 128, blend: 'normal', frames: 1 },
+  tank_p1_lvl1: { file: '', width: 192, height: 192, blend: 'normal', frames: 1 },
+  base_eagle: { file: '', width: 128, height: 128, blend: 'normal', frames: 1 },
+  base_eagle_destroyed: { file: '', width: 128, height: 128, blend: 'normal', frames: 1 },
+  bullet_basic: { file: '', width: 64, height: 64, blend: 'normal', frames: 1 },
+  vfx_explosion_small: { file: '', width: 128, height: 128, blend: 'additive', frames: 4 }
+};
